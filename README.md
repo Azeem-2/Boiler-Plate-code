@@ -23,8 +23,7 @@
 Create a `.env` file in the project directory and add your secrets/configuration:
 
 ```env
-API_KEY=your_api_key_here
-DEBUG=True
+GEMINI_API_KEY=your_api_key_here
 ```
 
 ---
